@@ -59,6 +59,3 @@ _________________________________________________________________
 |numpy             | 1.20.1  |
 |matplotlib        | 3.3.4   |
 
-
-## License
-This project is licensed under the terms of the **MIT** license.
